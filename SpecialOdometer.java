@@ -1,3 +1,8 @@
+package SplOdometer;
+
+import Day4.SpecialOdometer1;
+
+public class SpecialOdometer {
 
 	private int [] odometerReadings;
 
@@ -30,3 +35,5 @@
 	public int getNoOfDigits(int n) {
 		return 0;
 	}
+
+}
